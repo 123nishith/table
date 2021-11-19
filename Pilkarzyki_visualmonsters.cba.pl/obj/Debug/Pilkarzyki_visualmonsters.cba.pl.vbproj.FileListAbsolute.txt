@@ -1,0 +1,26 @@
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.exe.config
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.exe
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.pdb
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.xml
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.vbprojResolveAssemblyReference.cache
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.Form1.resources
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.Resources.resources
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.vbproj.GenerateResource.Cache
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.exe
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.xml
+C:\Users\piotr\Desktop\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.pdb
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.exe.config
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.exe
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.xml
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.pdb
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.exe.config
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.exe
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.xml
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.pdb
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.exe
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.pdb
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\bin\Debug\Pilkarzyki_visualmonsters.cba.pl.xml
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.vbprojResolveAssemblyReference.cache
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.Form1.resources
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.Resources.resources
+E:\dropbox\Dropbox\blog\gry animacje itp\pilkarzyki\po angielsku\Pilkarzyki_visualmonsters.cba.pl\Pilkarzyki_visualmonsters.cba.pl\obj\Debug\Pilkarzyki_visualmonsters.cba.pl.vbproj.GenerateResource.Cache
